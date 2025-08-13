@@ -1,0 +1,24 @@
+{
+  "alerts": [
+    {
+      "price": 1185000.0,
+      "label": "\ud83d\udd34 Resistance",
+      "importance": "\ud83d\udd34 resistance",
+      "notes": "test 1"
+    },
+    {
+      "price": 100000.0,
+      "label": "\ud83d\udfe1 Watch",
+      "notes": "test 858",
+      "importance": "\ud83d\udfe1 watch"
+    },
+    {
+      "type": "price",
+      "price": 120000.0,
+      "label": "\ud83d\udfe1 Watch",
+      "notes": "new test",
+      "importance": "\ud83d\udfe1 watch",
+      "created": "2025-08-13T19:14:19.337495"
+    }
+  ]
+}
